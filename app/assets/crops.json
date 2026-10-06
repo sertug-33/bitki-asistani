@@ -1,0 +1,682 @@
+{
+ "province": "Mersin",
+ "districts": {
+  "Tarsus": [
+   {
+    "name": "Mısır",
+    "variant": null,
+    "label": "Mısır"
+   },
+   {
+    "name": "Soya",
+    "variant": null,
+    "label": "Soya"
+   },
+   {
+    "name": "Buğday",
+    "variant": null,
+    "label": "Buğday"
+   },
+   {
+    "name": "Ayçiçeği",
+    "variant": null,
+    "label": "Ayçiçeği"
+   },
+   {
+    "name": "Şeftali",
+    "variant": null,
+    "label": "Şeftali"
+   },
+   {
+    "name": "Nektarin",
+    "variant": null,
+    "label": "Nektarin"
+   },
+   {
+    "name": "Kiraz",
+    "variant": null,
+    "label": "Kiraz"
+   },
+   {
+    "name": "Limon",
+    "variant": "Mayer",
+    "label": "Limon (Mayer)"
+   },
+   {
+    "name": "Mandalina",
+    "variant": null,
+    "label": "Mandalina"
+   },
+   {
+    "name": "Portakal",
+    "variant": null,
+    "label": "Portakal"
+   },
+   {
+    "name": "Kabak",
+    "variant": null,
+    "label": "Kabak"
+   },
+   {
+    "name": "Biber",
+    "variant": null,
+    "label": "Biber"
+   },
+   {
+    "name": "Kavun",
+    "variant": null,
+    "label": "Kavun"
+   },
+   {
+    "name": "Karpuz",
+    "variant": null,
+    "label": "Karpuz"
+   },
+   {
+    "name": "Domates",
+    "variant": "Sera",
+    "label": "Domates (Sera)"
+   },
+   {
+    "name": "Domates",
+    "variant": "Açık Alan",
+    "label": "Domates (Açık Alan)"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Çilek",
+    "variant": null,
+    "label": "Çilek"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   }
+  ],
+  "Akdeniz": [
+   {
+    "name": "Limon",
+    "variant": "Mayer",
+    "label": "Limon (Mayer)"
+   },
+   {
+    "name": "Mandalina",
+    "variant": null,
+    "label": "Mandalina"
+   },
+   {
+    "name": "Portakal",
+    "variant": null,
+    "label": "Portakal"
+   },
+   {
+    "name": "Trabzon Hurması",
+    "variant": null,
+    "label": "Trabzon Hurması"
+   },
+   {
+    "name": "Şeftali",
+    "variant": null,
+    "label": "Şeftali"
+   },
+   {
+    "name": "Nektarin",
+    "variant": null,
+    "label": "Nektarin"
+   },
+   {
+    "name": "Biber",
+    "variant": null,
+    "label": "Biber"
+   },
+   {
+    "name": "Domates",
+    "variant": "Sera",
+    "label": "Domates (Sera)"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   },
+   {
+    "name": "Buğday",
+    "variant": null,
+    "label": "Buğday"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   },
+   {
+    "name": "Ayva",
+    "variant": null,
+    "label": "Ayva"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   }
+  ],
+  "Toroslar": [
+   {
+    "name": "Limon",
+    "variant": "Mayer",
+    "label": "Limon (Mayer)"
+   },
+   {
+    "name": "Mandalina",
+    "variant": null,
+    "label": "Mandalina"
+   },
+   {
+    "name": "Portakal",
+    "variant": null,
+    "label": "Portakal"
+   },
+   {
+    "name": "Trabzon Hurması",
+    "variant": null,
+    "label": "Trabzon Hurması"
+   },
+   {
+    "name": "Şeftali",
+    "variant": null,
+    "label": "Şeftali"
+   },
+   {
+    "name": "Nektarin",
+    "variant": null,
+    "label": "Nektarin"
+   },
+   {
+    "name": "Domates",
+    "variant": "Sera",
+    "label": "Domates (Sera)"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   },
+   {
+    "name": "Buğday",
+    "variant": null,
+    "label": "Buğday"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   },
+   {
+    "name": "Kiraz",
+    "variant": null,
+    "label": "Kiraz"
+   },
+   {
+    "name": "Ayva",
+    "variant": null,
+    "label": "Ayva"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   }
+  ],
+  "Mezitli": [
+   {
+    "name": "Limon",
+    "variant": "Mayer+ Küt Diken",
+    "label": "Limon (Mayer+ Küt Diken)"
+   },
+   {
+    "name": "Mandalina",
+    "variant": null,
+    "label": "Mandalina"
+   },
+   {
+    "name": "Portakal",
+    "variant": null,
+    "label": "Portakal"
+   },
+   {
+    "name": "Şeftali",
+    "variant": null,
+    "label": "Şeftali"
+   },
+   {
+    "name": "Nektarin",
+    "variant": null,
+    "label": "Nektarin"
+   },
+   {
+    "name": "Buğday",
+    "variant": null,
+    "label": "Buğday"
+   },
+   {
+    "name": "Çilek",
+    "variant": null,
+    "label": "Çilek"
+   },
+   {
+    "name": "Domates",
+    "variant": "Açık Alan",
+    "label": "Domates (Açık Alan)"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   },
+   {
+    "name": "Elma",
+    "variant": null,
+    "label": "Elma"
+   },
+   {
+    "name": "Ayva",
+    "variant": null,
+    "label": "Ayva"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   }
+  ],
+  "Erdemli": [
+   {
+    "name": "Limon",
+    "variant": "Küt Diken",
+    "label": "Limon (Küt Diken)"
+   },
+   {
+    "name": "Şeftali",
+    "variant": null,
+    "label": "Şeftali"
+   },
+   {
+    "name": "Nektarin",
+    "variant": null,
+    "label": "Nektarin"
+   },
+   {
+    "name": "Domates",
+    "variant": "Sera",
+    "label": "Domates (Sera)"
+   },
+   {
+    "name": "Domates",
+    "variant": "Açık Alan",
+    "label": "Domates (Açık Alan)"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   },
+   {
+    "name": "Elma",
+    "variant": null,
+    "label": "Elma"
+   },
+   {
+    "name": "Ayva",
+    "variant": null,
+    "label": "Ayva"
+   },
+   {
+    "name": "Biber",
+    "variant": null,
+    "label": "Biber"
+   },
+   {
+    "name": "Avokado",
+    "variant": null,
+    "label": "Avokado"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Karnıbahar",
+    "variant": null,
+    "label": "Karnıbahar"
+   },
+   {
+    "name": "Fasulye",
+    "variant": null,
+    "label": "Fasulye"
+   },
+   {
+    "name": "Lahana",
+    "variant": null,
+    "label": "Lahana"
+   },
+   {
+    "name": "Brokoli",
+    "variant": null,
+    "label": "Brokoli"
+   },
+   {
+    "name": "Ejder Meyvesi",
+    "variant": null,
+    "label": "Ejder Meyvesi"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   }
+  ],
+  "Silifke": [
+   {
+    "name": "Limon",
+    "variant": "Küt Diken",
+    "label": "Limon (Küt Diken)"
+   },
+   {
+    "name": "Nar",
+    "variant": null,
+    "label": "Nar"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Çilek",
+    "variant": null,
+    "label": "Çilek"
+   },
+   {
+    "name": "Kayısı",
+    "variant": null,
+    "label": "Kayısı"
+   },
+   {
+    "name": "Antep Fıstığı",
+    "variant": null,
+    "label": "Antep Fıstığı"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   },
+   {
+    "name": "Domates",
+    "variant": "Sera",
+    "label": "Domates (Sera)"
+   },
+   {
+    "name": "Elma",
+    "variant": null,
+    "label": "Elma"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   }
+  ],
+  "Mut": [
+   {
+    "name": "Kayısı",
+    "variant": null,
+    "label": "Kayısı"
+   },
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Kavun",
+    "variant": null,
+    "label": "Kavun"
+   },
+   {
+    "name": "İncir",
+    "variant": null,
+    "label": "İncir"
+   },
+   {
+    "name": "Ceviz",
+    "variant": null,
+    "label": "Ceviz"
+   },
+   {
+    "name": "Badem",
+    "variant": null,
+    "label": "Badem"
+   },
+   {
+    "name": "Elma",
+    "variant": null,
+    "label": "Elma"
+   },
+   {
+    "name": "Üzüm",
+    "variant": null,
+    "label": "Üzüm"
+   },
+   {
+    "name": "Erik",
+    "variant": null,
+    "label": "Erik"
+   }
+  ],
+  "Gülnar": [
+   {
+    "name": "Zeytin",
+    "variant": null,
+    "label": "Zeytin"
+   },
+   {
+    "name": "Kuş Üzümü",
+    "variant": null,
+    "label": "Kuş Üzümü"
+   },
+   {
+    "name": "Elma",
+    "variant": null,
+    "label": "Elma"
+   },
+   {
+    "name": "Domates",
+    "variant": "Açık Alan",
+    "label": "Domates (Açık Alan)"
+   },
+   {
+    "name": "Kayısı",
+    "variant": null,
+    "label": "Kayısı"
+   },
+   {
+    "name": "Buğday",
+    "variant": null,
+    "label": "Buğday"
+   }
+  ],
+  "Aydıncık": [
+   {
+    "name": "Hıyar",
+    "variant": "Sera",
+    "label": "Hıyar (Sera)"
+   },
+   {
+    "name": "Patlıcan",
+    "variant": "Sera",
+    "label": "Patlıcan (Sera)"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   }
+  ],
+  "Bozyazı": [
+   {
+    "name": "Hıyar",
+    "variant": "Sera",
+    "label": "Hıyar (Sera)"
+   },
+   {
+    "name": "Patlıcan",
+    "variant": "Sera",
+    "label": "Patlıcan (Sera)"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Biber",
+    "variant": "Sera",
+    "label": "Biber (Sera)"
+   },
+   {
+    "name": "Avokado",
+    "variant": null,
+    "label": "Avokado"
+   }
+  ],
+  "Anamur": [
+   {
+    "name": "Patlıcan",
+    "variant": "Sera",
+    "label": "Patlıcan (Sera)"
+   },
+   {
+    "name": "Muz",
+    "variant": null,
+    "label": "Muz"
+   },
+   {
+    "name": "Biber",
+    "variant": "Sera",
+    "label": "Biber (Sera)"
+   },
+   {
+    "name": "Çilek",
+    "variant": null,
+    "label": "Çilek"
+   },
+   {
+    "name": "Avokado",
+    "variant": null,
+    "label": "Avokado"
+   },
+   {
+    "name": "Ejder Meyvesi",
+    "variant": null,
+    "label": "Ejder Meyvesi"
+   },
+   {
+    "name": "Papaya",
+    "variant": null,
+    "label": "Papaya"
+   },
+   {
+    "name": "Pepino",
+    "variant": null,
+    "label": "Pepino"
+   }
+  ]
+ }
+}

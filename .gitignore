@@ -1,0 +1,10 @@
+# gizli ve kişisel
+.env
+**/.env
+server/data/
+# Python
+.venv/
+__pycache__/
+# diğer
+.DS_Store
+tools/*.xlsx
